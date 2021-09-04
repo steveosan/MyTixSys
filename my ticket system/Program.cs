@@ -84,7 +84,11 @@ namespace my_ticket_system
                         Console.WriteLine("Who is assigned to this ticket?");
                         //save who is assigned
                         string assigned = Console.ReadLine();
-
+                        
+                        // prompt for who submitted
+                        Console.WriteLine("Who is submitted this ticket?");
+                        //save who is assigned
+                        string submitted = Console.ReadLine();
                         
                         //prompt for who is watching
                         Console.WriteLine("How many watchers for this ticket?");
@@ -103,7 +107,8 @@ namespace my_ticket_system
                         string watching = string.Join("|", watchers);
 
 
-                            sw.WriteLine("{0},{1},{2},{3},{4},{5}", ID, summary,status,priority,assigned,watching);
+                            sw.WriteLine("{0},{1},{2},{3},{4},{5},{6}", ID, summary,status,priority,submitted, assigned,watching);
+
 
                     }
                     sw.Close();
