@@ -1,0 +1,16 @@
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.csproj.AssemblyReference.cache
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.AssemblyInfo.cs
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.exe
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.deps.json
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.runtimeconfig.json
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.dll
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\ref\my ticket system.dll
+C:\Users\Steve\Desktop\my ticket system\bin\Debug\net5.0\my ticket system.pdb
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.dll
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\ref\my ticket system.dll
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.pdb
+C:\Users\Steve\Desktop\my ticket system\obj\Debug\net5.0\my ticket system.genruntimeconfig.cache
